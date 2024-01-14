@@ -10,8 +10,8 @@ Back-mandante = "O time que joga no seu proprio estadio, o mandante da partida".
 * Odd do Over25: ODD do time mandante a fazer mais de 3 gols;
 * Odd do BTTS: ODD de ambos os times marcarem independente do resultado.
 # INSERINDO ODD's
-1º Ao clicar no link disponibilizado, seguira para o colab desenvolvido;<br />
-2º Ao clicar no link disponibilizado referente ao site de aposta, seguira para o site, onde coletara os dados necessarios;<br />
+1º Ao clicar no link disponibilizado dentro da pasta "link_projeto" dentro do arquivo .txt "link_projeto_codigo", seguira para o colab desenvolvido;<br />
+2º Ao clicar no link disponibilizado dentro da pasta "link_projeto" dentro do arquivo .txt "link_projeto_codigo" referente ao site de aposta, seguira para o site, onde coletara os dados necessarios;<br />
 3º No colab aperta-se Ctrl+F9 para a execução do codigo e logo tera que inseir suas devidas odds;<br />
 4º No BETFAIR escolha um jogo da premier league e permaneça no painel principal das ODD's;<br />
 5º Insira no colab as ODD's necesarias de acordo com as do site de apostas, sendo: ();<br />
