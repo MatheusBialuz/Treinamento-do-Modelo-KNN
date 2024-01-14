@@ -1,6 +1,7 @@
 # Treinamento-do-Modelo-KNN
 Análises para avaliar o desempenho do modelo KNN por meio do método back-mandante em apostas esportivas.
 Back-mandante = "O time que joga no seu proprio estadio, o mandante da partida".
+
 # Treinando a IA com as seguintes ODD's
 * Odd do Mandante: ODD do time com o mando de campo;
 * Odd do Visitante: ODD do time que não possui o mando de campo;
@@ -9,6 +10,7 @@ Back-mandante = "O time que joga no seu proprio estadio, o mandante da partida".
 * Odd do Over15: ODD do time mandante a fazer mais de 2 gols;
 * Odd do Over25: ODD do time mandante a fazer mais de 3 gols;
 * Odd do BTTS: ODD de ambos os times marcarem independente do resultado.
+  
 # INSERINDO ODD's
 1º Ao clicar no link disponibilizado dentro da pasta "link_projeto" dentro do arquivo .txt "link_projeto_codigo", seguira para o colab desenvolvido;<br />
 2º Ao clicar no link disponibilizado dentro da pasta "link_projeto" dentro do arquivo .txt "link_projeto_codigo" referente ao site de aposta, seguira para o site, onde coletara os dados necessarios;<br />
@@ -21,3 +23,7 @@ Back-mandante = "O time que joga no seu proprio estadio, o mandante da partida".
 Haverá 2 tipos de resultados possiveis:
 * Fazer Back Mandante: A IA analisou todos os possiveis dados do nosso DataFrame e utilizou o KNN para a comparação e concluiu que fazer back mandante é a melhor opção nesse treinamento.
 * Ficar fora desse jogo: A IA analisou todos os possiveis dados do nosso DataFrame e utilizou o KNN para a comparação e concluiu que ficar fora desse jogo (não apostar no dono da casa) é a melhor opção nesse treinamento.
+
+# Informações adicionais
+* Disponibilizado o artigo com informações detalhadas, dentro do diretório "explicação";
+* Disponibilizado o DataFrame com informações dos dados coletados, dentro do diretório "data_frame".
